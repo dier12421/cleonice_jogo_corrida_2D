@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to bottom, #000, #555);
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 10px 0;
+}
+
+#score {
+    font-size: 20px;
+    margin: 5px 0;
+}
+
+canvas {
+    display: block;
+    margin: auto;
+    background: #111;
+    border: 3px solid #fff;
+    box-shadow: 0 0 10px #fff;
+}
